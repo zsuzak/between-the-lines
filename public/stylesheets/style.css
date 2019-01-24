@@ -111,12 +111,26 @@ h3 {
     width: 50%;
 }
 
-
-
-img {
+.pos {
     width: 30%;
     margin-top: 25px;
     margin-left: 0.83%;
     margin-right: 0.83%;
+    border-radius: 15px;
+}
+
+.imggrid2 {
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 25%;
+    padding-right: 25%;
+    width: 50%;
+
+}
+
+.tac {
+    height: 100%;
+    width: 45%;
+    margin-top: 25px;
     border-radius: 15px;
 }
