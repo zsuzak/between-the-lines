@@ -1,0 +1,16 @@
+Positions:
+- Sweeper Keeper
+- Regista / Deep Lying Playmaker
+- '10' / Playmaker / Trequartista
+- False 9 
+
+Tactics:
+- Juego De Posicion
+- Cantenaccio
+- Gegenpressing
+
+Formations:
+- 433
+- 352
+- 4231
+- 442 Diamond
