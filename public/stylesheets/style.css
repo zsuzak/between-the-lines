@@ -67,17 +67,13 @@ a:link, a:visited, a:hover, a:active {
     margin-left: 5%;
     margin-right: 5%;
     width: 90%;
-}
-
-h2 {
-    font-family: 'Baskerville Old Face', 'Baskerville', 'Times New Roman', 'Times', 'Serif';    
-    font-size: 25px;
     font-style: italic;
     text-align: center;
 }
 
-.intro p {
-    text-align: center;
+h2 {
+    font-family: 'Baskerville Old Face', 'Baskerville', 'Times New Roman', 'Times', 'Serif';    
+    font-size: 25px;    
 }
 
 p {
