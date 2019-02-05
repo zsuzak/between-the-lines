@@ -23,6 +23,14 @@ app.get('/formations', (req, res) => {
     res.render('formations.hbs');
 });
 
+app.get('/quotes', (req, res) => {
+    res.render('quotes.hbs');
+});
+
+app.get('/gallery', (req, res) => {
+    res.render('gallery.hbs');
+});
+
 app.get('*', (req, res) => {
     res.render('home.hbs', {});
 });
