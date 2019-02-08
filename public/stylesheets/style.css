@@ -38,7 +38,7 @@ html {
 
 h1 {
     color: white;
-    font-family: 'Baskerville', 'Baskerville Old Face', 'Times New Roman', 'Times', 'Serif';
+    font-family: 'Baskerville Old Face', 'Garamond', 'Baskerville', 'Times New Roman', 'Times', 'Serif';
     font-size: 45px;
     text-shadow: 2px 2px 6px #302f2f;
 }
@@ -72,7 +72,7 @@ a:link, a:visited, a:hover, a:active {
 }
 
 h2 {
-    font-family: 'Baskerville Old Face', 'Baskerville', 'Times New Roman', 'Times', 'Serif';    
+    font-family: 'Baskerville Old Face', 'Garamond', 'Baskerville', 'Times New Roman', 'Times', 'Serif';    
     font-size: 25px;    
 }
 

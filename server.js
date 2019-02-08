@@ -31,6 +31,10 @@ app.get('/gallery', (req, res) => {
     res.render('gallery.hbs');
 });
 
+app.get('/managers', (req, res) => {
+    res.render('managers.hbs');
+});
+
 app.get('*', (req, res) => {
     res.render('home.hbs', {});
 });
